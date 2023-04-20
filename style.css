@@ -1,0 +1,19 @@
+html{
+    background-color: rgb(238, 209, 171);
+    padding-top: 30px;
+}
+h1{
+    font-size: 35px;
+    font-family:'Times New Roman', Times, serif;
+    text-decoration: underline;
+    text-decoration-style: double;
+}
+#take_snapshot{
+    font-size: 23px;
+    background-color:plum;
+    border-width: 0.5px;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    font-family: 'Times New Roman', Times, serif;
+    border-radius: 4px;
+}
